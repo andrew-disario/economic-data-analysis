@@ -1,4 +1,4 @@
-<h1>Economic Data Analysis</h1>
+<h1>Unemployment and Participation Analysis by State</h1>
 <p align="center">
 <img src="https://github.com/andrew-disario/economic-data-analysis/blob/main/economic-data-analysis.png?raw=true" height="100%" width="100%" alt="economic-data-analysis"/>
 <br />
