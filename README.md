@@ -1,6 +1,6 @@
 <h1>Unemployment and Participation Analysis by State</h1>
 <p align="center">
-<img src="https://github.com/andrew-disario/economic-data-analysis/blob/main/economic-data-analysis.png?raw=true" height="100%" width="100%" alt="economic-data-analysis"/>
+<img src="https://github.com/andrew-disario/unemployment-and-participation-analysis-by-state/blob/main/unemployment-and-participation-analysis-by-state.png?raw=true" height="100%" width="100%" alt="unemployment-and-participation-analysis-by-state"/>
 <br />
 In this project, we analyze state unemployment and participation rates using the Federal Reserve of Economic Data website, Python, Pandas, Matplotlib, Plotly, Time and FredAPI.
   
